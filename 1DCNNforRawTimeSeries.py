@@ -1,5 +1,5 @@
-import os, pickle, random, math, sys
-from spectrum import Periodogram
+import os, pickle, random, math, sys #pickle: 텍스트 외 자료형을 파일로 저장하는 모듈
+from spectrum import Periodogram # 의료 분석용 모듈이 아닌지?
 import tensorflow as tf
 import numpy as np
 import time
